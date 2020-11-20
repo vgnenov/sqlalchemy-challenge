@@ -25,10 +25,13 @@ Utilizing Python and SQLAlchemy to do basic climate analysis and data exploratio
 - Filter by the station with the highest number of observations
 - Plot the results as a histogram with bins=12
 
-# Results
+# Results and Conclusions (Condensed)
 ### Precipitation by Station
 ![Screenshot](Screenshots/precip2.JPG "Screenshot")
 
 ### Detailed Station Data
 ![Screenshot](Screenshots/stationhisto.jpg "Screenshot")
+
+### Temperature Analysis
+![Screenshot](Screenshots/temp.JPG "Screenshot")
 
