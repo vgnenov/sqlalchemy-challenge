@@ -24,3 +24,11 @@ Utilizing Python and SQLAlchemy to do basic climate analysis and data exploratio
 - Design a query to retrieve the last 12 months of temperature observation data (TOBS)
 - Filter by the station with the highest number of observations
 - Plot the results as a histogram with bins=12
+
+# Results
+### Precipitation by Station
+![Screenshot](Screenshots/precip2.JPG "Screenshot")
+
+### Detailed Station Data
+![Screenshot](Screenshots/stationhisto.jpg "Screenshot")
+
