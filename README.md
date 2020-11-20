@@ -2,7 +2,7 @@
 
 ![Screenshot](Screenshots/surf.jpg "Screenshot")
 
-# Purpose
+# Project Purpose
 Analyze the climate of Hawaii to determine the best location for a vacation stay.
 
 ## Process
